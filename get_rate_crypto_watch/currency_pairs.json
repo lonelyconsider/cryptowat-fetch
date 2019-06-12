@@ -1,0 +1,14 @@
+{
+    "currency_pairs": [
+        "BCHBTC", "BCHETH", "BCHEUR", "BCHGBP", "BCHJPY", "BCHPHP", "BCHUSD",
+        "BTCEUR", "BTCGBP", "BTCJPY", "BTCPHP", "BTCUSD",
+        "DASHBTC", "DASHEUR", "DASHGBP", "DASHJPY", "DASHPHP", "DASHUSD",
+        "ETCBTC", "ETCETH", "ETCEUR", "ETCGBP", "ETCJPY", "ETCPHP", "ETCUSD",
+        "ETHBTC", "ETHEUR", "ETHGBP", "ETHJPY", "ETHPHP", "ETHUSD",
+        "EURGBP", "EURJPY", "EURPHP", "EURUSD",
+        "LTCBTC", "LTCEUR", "LTCGBP", "LTCJPY", "LTCUSD",
+        "USDGBP", "USDJPY", "USDPHP",
+        "XRPBTC", "XRPETH", "XRPEUR", "XRPGBP", "XRPJPY", "XRPPHP", "XRPUSD",
+        "BSVUSD", "BSVEUR", "BSVBTC"
+    ]
+}
